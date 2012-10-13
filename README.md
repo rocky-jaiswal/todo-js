@@ -1,4 +1,4 @@
 todo-js
 =======
 
-Experiment with Rails + Require.js + Backbone.js + Lodash.js + CoffeeScript
+Experiment with Rails + Require.js + Backbone.js + Lodash.js + CoffeeScript (see todo.coffee)

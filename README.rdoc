@@ -1,1 +1,0 @@
-Experiment with Rails + Require.js + Backbone.js + Lodash.js + CoffeeScript (see todo.coffee)
